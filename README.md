@@ -1,2 +1,3 @@
 # Ghost-game
-arcade style ghost game created for a digital systems class final project
+Arcade style replica of Google's Halloween doodle game
+Built using Verilog HDL, FPGA board, and keyboard and VGA input/output
